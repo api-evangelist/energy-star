@@ -1,0 +1,55 @@
+{
+    "name": "ENERGY STAR",
+    "description": "ENERGY STAR\u00ae is the simple choice for energy efficiency. For more than 20 years, EPA\u2019s ENERGY STAR program has been America\u2019s resource for saving energy and protecting the environment.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1053-energy-star.jpg",
+    "tags": [
+        "api provider",
+        "buildings",
+        "data json",
+        "energy",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/energy-star\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ENERGY STAR",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1053-energy-star.jpg",
+            "humanURL": "https:\/\/data.energystar.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/energy-star-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/data.energystar.gov\/resources\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/energy-star"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/data.energystar.gov\/developers"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/energystar"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/data.energystar.gov"
+        }
+    ]
+}
